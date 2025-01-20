@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.12",
+    "@openzeppelin/contracts": "^5.1.0",
+    "hardhat": "^2.22.12",
+    "mocha": "^11.0.1"
+  },
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "dotenv": "^16.4.5",
+    "papaparse": "^5.4.1"
+  },
+  "scripts": {
+    "test:unit": "npx mocha 'test/unit/**/*.test.js'",
+    "test:integration": "npx mocha 'test/integration/**/PipePresale.test.js'"
+  }
+}
