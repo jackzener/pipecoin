@@ -24,6 +24,12 @@ npx hardhat run scripts/deploy/deployPresaleContract.js --network story_odyssey
 
 ## Contracts
 
+Deployment Addresses (Aeneid):
+
+PipeCoin: 0xd4F6c1E6c7129faC58892017525D9c8bF45CFb64
+presale: 0xc4b1364D6BEbDbE5D6a5de7e5eD08A375256d028
+usdc: 0x3314Dc66D445F24E8C7Fcd7365632cf7daB3c9bB
+
 Deployment Addresses (Odyssey):
 
 PipeCoin: 0x5d26AED76E8a5ddb7Fdb4c9d2F973ED62D2381BC
